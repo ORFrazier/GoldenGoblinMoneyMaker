@@ -1,0 +1,16 @@
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.exe
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.deps.json
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.runtimeconfig.json
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.runtimeconfig.dev.json
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.dll
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\bin\Debug\net5.0\GoldenGoblinMoneyMaker.pdb
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.AssemblyInfo.cs
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.dll
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\refint\GoldenGoblinMoneyMaker.dll
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.pdb
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\GoldenGoblinMoneyMaker.genruntimeconfig.cache
+C:\Users\lonni\source\repos\GoldenGoblinMoneyMaker\GoldenGoblinMoneyMaker\obj\Debug\net5.0\ref\GoldenGoblinMoneyMaker.dll
